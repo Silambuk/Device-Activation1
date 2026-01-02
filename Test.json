@@ -14,14 +14,14 @@
 
     {
         "device_id": "d3cea746b80b842d",
-        "key": "silambu",
+        "key": "silambu1",
         "expirydate": "1-01-2026",
         "Allowoffline": false
     },
 
     {
         "device_id": "d3cea746b80b842d",
-        "key": "silambu",
+        "key": "silambu2",
         "expirydate": "1-01-2026",
         "Allowoffline": false
     }
