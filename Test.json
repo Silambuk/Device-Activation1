@@ -24,5 +24,12 @@
         "key": "silambu2",
         "expirydate": "1-01-2026",
         "Allowoffline": false
-    }
+    },
+    
+    {
+        "device_id": "3d97157d824915df",
+        "key": "anonymous",
+        "expirydate": "3-02-2026",
+        "Allowoffline": false
+    },
 ]
